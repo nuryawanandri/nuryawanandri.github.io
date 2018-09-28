@@ -49,11 +49,18 @@ footer p {
 }
 
 .imageback {
-  background-image: url('./img/profilepic.jpg')
+  background-image: url('./img/programmerback.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .say-something {
   /* text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white; */
   font-size: 30px;
   color: #e9f0f7
+}
+
+.image-box {
+  height: 170px;
 }
